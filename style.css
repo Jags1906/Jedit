@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+textarea {
+    height: 637px;
+    width: 100%;
+    resize: none;
+    
+}
+.view {
+    height: 637px;
+    width: 100%;
+    overflow: auto;
+}
